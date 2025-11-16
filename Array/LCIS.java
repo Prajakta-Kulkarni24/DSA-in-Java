@@ -1,6 +1,6 @@
 // User function Template for Java
 
-class Solution {
+class LCIS {
 
     // Function to find LCIS (Longest Common Increasing Subsequence)
     public int LCIS(int arr1[], int arr2[]) {
