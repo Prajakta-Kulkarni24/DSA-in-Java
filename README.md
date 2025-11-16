@@ -1,1 +1,1 @@
-# DSA-in-Java
+# DSA-in-JAVA
