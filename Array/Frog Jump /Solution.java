@@ -1,3 +1,12 @@
+/*
+Problem: Frog Jump
+Approach: Recursion (Basic)
+Time Complexity: O(2^n)
+Space Complexity: O(n)
+Note: Can be optimized using DP
+*/
+
+
 import static java.lang.Math.min;
 import static java.lang.Math.abs;
 
