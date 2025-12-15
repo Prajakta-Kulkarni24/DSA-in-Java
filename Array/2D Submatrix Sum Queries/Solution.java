@@ -1,3 +1,13 @@
+
+/*
+Problem: Submatrix Sum Queries
+Approach: 2D Prefix Sum
+Time Complexity: O(n*m + q)
+Space Complexity: O(n*m)
+*/
+
+
+
 import java.util.*;
 
 class Solution {
