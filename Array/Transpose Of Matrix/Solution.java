@@ -1,6 +1,8 @@
-/* Transpose Of Matrix */
-
-
+/* Problem: Transpose Of Matrix 
+   Approach: Brut Force Matrix Transposition 
+   Time Complexity: O(n*m)
+   Space Complexity: O(n*m) 
+*/
 
 import java.util.ArrayList;
 import java.util.Scanner;
