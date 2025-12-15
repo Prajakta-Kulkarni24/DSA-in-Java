@@ -1,6 +1,10 @@
-
-
-
+/*
+Problem: Travelling Salesman Problem (TSP)
+Approach: Dynamic Programming and Bitmasking
+Time Complexity: O(n^2 * 2^n)
+Space Complexity: O(n * 2ⁿ)
+Note: Works For Small n Only
+*/
 
 
 
