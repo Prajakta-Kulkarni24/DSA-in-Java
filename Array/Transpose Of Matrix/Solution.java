@@ -1,5 +1,5 @@
-/* Problem: Transpose Of Matrix 
-   Approach: Brut Force Matrix Transposition 
+/* Problem: Transpose Of Matrix            
+   Approach: Brut Force Matrix      Transposition 
    Time Complexity: O(n*m)
    Space Complexity: O(n*m) 
 */
