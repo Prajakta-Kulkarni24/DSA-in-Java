@@ -1,4 +1,3 @@
-
 /*
 Problem: Submatrix Sum Queries
 Approach: 2D Prefix Sum
