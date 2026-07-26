@@ -1,3 +1,10 @@
+/*
+Problem: Weighted Job Scheduling (Maximum Profit in Job Scheduling)
+Approach: Recursion + Binary Search
+Time Complexity: O(2^n * log n)
+Space Complexity: O(n)   // Recursive call stack 
+*/
+
 import java.util.Arrays;
 
 class Solution {
