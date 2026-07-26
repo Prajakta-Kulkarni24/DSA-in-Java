@@ -1,3 +1,10 @@
+/*
+Problem: Course Schedule II (Find Order of Courses)
+Approach: Topological Sort (Kahn's Algorithm - BFS)
+Time Complexity: O(V + E)
+Space Complexity: O(V + E)
+*/
+
 import java.util.ArrayList;
 import java.util.Queue;
 import java.util.LinkedList;
